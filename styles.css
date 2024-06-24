@@ -1,28 +1,9 @@
 /* Copyright 2018 Google LLC.
 SPDX-License-Identifier: Apache-2.0 */
-/* .accordion-btn {
-	width: 100%;
-	text-align: center;
-	font-size: 18px;
-	cursor: pointer;
-	color: #444;
-	background-color: #add8e6;
-	padding: 19px;
-	outline: none;
-	border: none;
-	border-radius: 2px;
-} */
 
 .accordion-btn:hover {
 	background-color: #87cefa;
 }
-
-/* .container {
-	display: none;
-	padding: 0 18px;
-	background-color: white;
-	overflow: hidden;
-} */
 
 p {
 	font-size: 18px;
@@ -64,93 +45,6 @@ h2 {
 	text-align: center;
 }
 
-* {
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
-
-* {
-	-webkit-text-size-adjust: none;
-}
-
-/* abbr,
-address,
-article,
-aside,
-audio,
-b,
-blockquote,
-body,
-canvas,
-caption,
-cite,
-code,
-dd,
-del,
-details,
-dfn,
-div,
-dl,
-dt,
-em,
-fieldset,
-figcaption,
-figure,
-footer,
-form,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-header,
-hgroup,
-html,
-i,
-iframe,
-img,
-ins,
-kbd,
-label,
-legend,
-li,
-mark,
-menu,
-nav,
-object,
-ol,
-p,
-pre,
-q,
-samp,
-section,
-small,
-span,
-strong,
-sub,
-summary,
-sup,
-table,
-tbody,
-td,
-tfoot,
-th,
-thead,
-time,
-tr,
-ul,
-var,
-video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	outline: 0;
-	font-size: 100%;
-	vertical-align: baseline;
-	background: rgba(0, 0, 0, 0);
-} */
-
 article,
 aside,
 details,
@@ -169,15 +63,6 @@ blockquote,
 q {
 	quotes: none;
 }
-
-/* html {
-	height: 100%;
-	background: #fff;
-	-webkit-text-size-adjust: none;
-	-ms-text-size-adjust: 100%;
-	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-	scroll-behavior: smooth;
-} */
 
 img {
 	max-width: 100%;
