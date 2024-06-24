@@ -1,6 +1,6 @@
 /* Copyright 2018 Google LLC.
 SPDX-License-Identifier: Apache-2.0 */
-.accordion-btn {
+/* .accordion-btn {
 	width: 100%;
 	text-align: center;
 	font-size: 18px;
@@ -11,18 +11,18 @@ SPDX-License-Identifier: Apache-2.0 */
 	outline: none;
 	border: none;
 	border-radius: 2px;
-}
+} */
 
 .accordion-btn:hover {
 	background-color: #87cefa;
 }
 
-.container {
+/* .container {
 	display: none;
 	padding: 0 18px;
 	background-color: white;
 	overflow: hidden;
-}
+} */
 
 p {
 	font-size: 18px;
@@ -73,7 +73,7 @@ h2 {
 	-webkit-text-size-adjust: none;
 }
 
-abbr,
+/* abbr,
 address,
 article,
 aside,
@@ -149,7 +149,7 @@ video {
 	font-size: 100%;
 	vertical-align: baseline;
 	background: rgba(0, 0, 0, 0);
-}
+} */
 
 article,
 aside,
@@ -170,14 +170,14 @@ q {
 	quotes: none;
 }
 
-html {
+/* html {
 	height: 100%;
 	background: #fff;
 	-webkit-text-size-adjust: none;
 	-ms-text-size-adjust: 100%;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 	scroll-behavior: smooth;
-}
+} */
 
 img {
 	max-width: 100%;
